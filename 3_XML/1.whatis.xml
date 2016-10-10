@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+    (X)HTML 用来显示数据
+       XML 用来传输和储存数据
+
+    单纯定义下面的XML，不会有任何的行为，因为其只是数据的载体
+    XML中可以创造标签，其不会替代XHTML，因为其用来储存和传输数据，HTML用来数据的表现
+
+    XML是各种应用程序之间进行通信的最常用工具
+-->
+<!--
+    如果您需要在 HTML 文档中显示动态数据，那么每当数据改变时将花费大量的时间来编辑 HTML。
+    通过 XML，数据能够存储在独立的 XML 文件中。这样您就可以专注于使用 HTML/CSS 进行显示和布局，并确保修改底层数据不再需要对 HTML 进行任何的改变。
+    通过使用几行 JavaScript 代码，您就可以读取一个外部 XML 文件，并更新您的网页的数据内容。
+
+    ↑：HTML用来定义结构，CSS定义表现，XML定义数据的内容
+-->
+<!--
+    XML 文档必须要有根元素
+-->
+<note>
+    <to>Charley</to>
+    <date>2016 / 10 / 09</date>
+    <message>
+        张继超你到底把我家的钥匙放哪里去了？
+    </message>
+    <MESSAGE>
+        XML 元素对大小写敏感
+    </MESSAGE>
+    <!-- 属性值需要加引号 -->
+    <!-- 对于XML元素，最好不要使用属性，而是使用元素进行保留数据 -->
+    <tips how = "connect by phone">
+        联系方式
+    </tips>
+
+    <tips>
+        <how>connect by phone</how>
+        <desc>联系方式</desc>
+    </tips>
+
+    <!-- XML中空格会被保留 -->
+    <space>
+                前面有空格
+    </space>
+</note>

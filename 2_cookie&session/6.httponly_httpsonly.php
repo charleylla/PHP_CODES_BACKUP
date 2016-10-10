@@ -11,7 +11,7 @@
 setcookie("unsafe","gaga",0,"","",false);
 setcookie("safe","safe",0,"","",true);
 
-//HTTPONLY -> 是否只在http请求时使用
+//HTTPONLY -> 是否在http
 //cookie 可以在javascript中获取到，默认为false，表示除了http请求，其他地方（如js）也可以使用
 
 // 这是第七个参数了
