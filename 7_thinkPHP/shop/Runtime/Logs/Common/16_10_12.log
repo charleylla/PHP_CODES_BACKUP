@@ -1,0 +1,342 @@
+[ 2016-10-12T14:47:00+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T14:47:10+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:38:14+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:39:39+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:39:41+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:39:49+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:40:37+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:40:57+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:41:44+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:42:23+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:42:34+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:42:51+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:11+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:13+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:14+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:14+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:14+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:15+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:15+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:15+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:15+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:15+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:15+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:15+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:15+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:15+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:15+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:15+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:15+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:15+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:15+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:15+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:15+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:15+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:15+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:15+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:16+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:16+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:16+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:16+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:16+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:16+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:16+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:16+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:16+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:16+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:16+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:16+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:16+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:16+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:17+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:17+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:17+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:17+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:17+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:47:17+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+ERR: 无法加载模块:User
+
+[ 2016-10-12T16:50:08+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+ERR: 无法加载模块:User
+

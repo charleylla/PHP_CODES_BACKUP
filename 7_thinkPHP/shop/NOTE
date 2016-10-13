@@ -1,0 +1,25 @@
+1.四种路由形式
+    路由：从 URL 参数中分析出当前请求的分组，控制器和操作方法的过程
+    A. 传统的 GET 形式
+        http://www.charley.com/index.php?m=home&c=Index&a=index
+    B. pathinfo 路径形式（默认）
+        http://www.charley.com/index.php/Home/Index/index
+    C. rewrite 重写形式（伪静态） -> 省略了 index.php，有一定的伪装性
+        http://www.charley.com/Home/Index/index
+    D. 兼容形式
+        http://www.charley.com?s=/Home/Index/index
+
+    以上的路由形式，除了第三个，其他的都可以使用
+
+2.创建控制器
+    根据业务需求，创建不同的控制器。
+    会员控制器，商品控制器，订单控制器...
+    创建控制器的名字，需要满足指定的形式。如： IndexController.class.php
+
+    // 创建控制器之前需要使用命名空间
+    // 下面的写法是固定格式
+    namespace Home\Controller;
+    use Think\Controller;
+    class UserController extends Controller{
+
+    }

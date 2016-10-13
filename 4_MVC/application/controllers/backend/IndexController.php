@@ -6,6 +6,8 @@
  * Date: 2016/10/10
  * Time: 14:29
  */
+
+// 这个类已经被自动导入进去了
 class IndexController extends Controller
 {
     public function mainAction(){

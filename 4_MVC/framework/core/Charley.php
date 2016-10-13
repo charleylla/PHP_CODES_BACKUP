@@ -26,7 +26,7 @@ class Charley
         // 获取 三大 目录
         define("APP_PATH",ROOT.DS."application".DS);
         define("REAMEWORK_PATH",ROOT.DS."framework".DS);
-        define("PUBLIC_PATH",ROOT.DS."public".DS);
+        define("PUBLIC_PATH",ROOT.DS."Public".DS);
 
         // 获取application下的子目录
         define("CONFIG_PATH",APP_PATH."config".DS);

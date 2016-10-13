@@ -1,0 +1,97 @@
+[ 2016-10-13T09:09:12+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/test_model
+ERR: 非法操作:test_model
+
+[ 2016-10-13T09:09:39+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/model_test
+ERR: 1146:Table 'thinkphp_study_1012.ch_no_pref' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `ch_no_pref`
+
+[ 2016-10-13T09:31:49+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/model_test
+ERR: Syntax Error in template "D:/WWW/PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/Home/View\User\model_test.html"  on line 8 "{msg}" unknown tag "msg"
+
+[ 2016-10-13T09:45:53+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/model_test
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'link 'c' )' at line 1
+ [ SQL语句 ] : SELECT * FROM `ch_message` WHERE ( name link 'c' ) 
+
+[ 2016-10-13T10:52:46+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/model_test/name/charley/age/22
+ERR: 参数错误或者未定义:goods_id
+
+[ 2016-10-13T11:15:38+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/showUser
+ERR: Syntax Error in template "D:/WWW/PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/Home/View\User\showUser.html"  on line 10 "&lt;span&gt;{$value@@iteration}&lt;/span&gt;"  - Unexpected "@", expected one of: "identifier"
+
+[ 2016-10-13T11:30:54+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/Home/User/update/name/charley
+ERR: 参数错误或者未定义:goods_name
+
+[ 2016-10-13T11:51:26+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/Home/User/update/name/charley
+ERR: 1054:Unknown column 'charley' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ch_message` WHERE ( name = charley ) 
+
+[ 2016-10-13T13:44:05+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/Home/User/update/name
+ERR: 参数错误或者未定义:name
+
+[ 2016-10-13T13:56:32+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/Home/User/update/name
+ERR: 参数错误或者未定义:name
+
+[ 2016-10-13T13:56:36+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/Home/User/update/
+ERR: 参数错误或者未定义:name
+
+[ 2016-10-13T13:56:51+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/Home/userList
+ERR: 无法加载控制器:UserList
+
+[ 2016-10-13T13:56:58+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/Home/showUser
+ERR: 无法加载控制器:ShowUser
+
+[ 2016-10-13T13:58:26+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/Home/User/update/name/charley
+ERR: 1054:Unknown column 'charley' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ch_message` WHERE ( name=charley ) 
+
+[ 2016-10-13T13:58:33+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/Home/User/update/name/lylla
+ERR: 1054:Unknown column 'lylla' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ch_message` WHERE ( name=lylla ) 
+
+[ 2016-10-13T13:58:37+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/Home/User/update/name/mike
+ERR: 1054:Unknown column 'mike' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `ch_message` WHERE ( name=mike ) 
+
+[ 2016-10-13T14:10:56+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/Home/User/showList
+ERR: 非法操作:showList
+
+[ 2016-10-13T15:19:36+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/__CONTROLLER/verifyImg
+ERR: 非法操作:__CONTROLLER
+
+[ 2016-10-13T15:19:37+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/__CONTROLLER/verifyImg
+ERR: 非法操作:__CONTROLLER
+
+[ 2016-10-13T15:19:38+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/__CONTROLLER/verifyImg
+ERR: 非法操作:__CONTROLLER
+
+[ 2016-10-13T15:19:38+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/__CONTROLLER/verifyImg
+ERR: 非法操作:__CONTROLLER
+
+[ 2016-10-13T15:19:38+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/__CONTROLLER/verifyImg
+ERR: 非法操作:__CONTROLLER
+
+[ 2016-10-13T15:25:02+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/%7B$smarty.const.__CONTROLLER__%7D/verifyImg/0.9227952994943309
+ERR: 非法操作:{$smarty.const.__CONTROLLER__}
+
+[ 2016-10-13T15:25:03+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/%7B$smarty.const.__CONTROLLER__%7D/verifyImg/0.21414929203807476
+ERR: 非法操作:{$smarty.const.__CONTROLLER__}
+
+[ 2016-10-13T15:25:03+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/%7B$smarty.const.__CONTROLLER__%7D/verifyImg/0.48393312734894534
+ERR: 非法操作:{$smarty.const.__CONTROLLER__}
+
+[ 2016-10-13T15:25:03+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/%7B$smarty.const.__CONTROLLER__%7D/verifyImg/0.39261828351768324
+ERR: 非法操作:{$smarty.const.__CONTROLLER__}
+
+[ 2016-10-13T15:25:17+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/%7B$smarty.const.__CONTROLLER__%7D/verifyImg/hash0.15475545186184902
+ERR: 非法操作:{$smarty.const.__CONTROLLER__}
+
+[ 2016-10-13T15:26:08+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/Home/User/verifyImg0.8692664219255966
+ERR: 非法操作:verifyImg0.8692664219255966
+
+[ 2016-10-13T17:06:14+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/showUser.html
+ERR: Think\Controller:query方法不存在！
+
+[ 2016-10-13T17:06:25+08:00 ] ::1 /PHP_ON_TYE_WAY/PHP_CODES_BACKUP/7_thinkPHP/shop/index.php/User/showUser.html
+ERR: 1146:Table 'thinkphp_study_1012.ch_msaage' doesn't exist
+ [ SQL语句 ] : select * from ch_msaage limit 0,1
+

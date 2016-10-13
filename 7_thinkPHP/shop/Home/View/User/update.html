@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div{
+            margin-top:10px;
+        }
+        span{
+            width:100px;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+<form action="{$smarty.const.__SELF__}" method="POST">
+    <div>
+        <span>name: </span><input type="text" value = "{$info['name']}" name="name">
+    </div>
+    <div>
+        <span>age: </span><input type="text" value = "{$info['age']}" name="age">
+    </div>
+    <div>
+        <span>address:</span><input type="text" value = "{$info['address']}" name="address">
+    </div>
+    <div>
+        <span></span><input type="submit" value="提交">
+    </div>
+    <div>
+        <span></span><input type="text" value="{$info['id']}" name="id" hidden>
+    </div>
+</form>
+</body>
+</html>

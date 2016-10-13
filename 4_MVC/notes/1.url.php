@@ -12,14 +12,14 @@
  *      向商城中添加一个商品的例子
  *
  *  .htaccess
- *      服务器分布式配置，告诉 Apache 重定向到 index.php 入口文件。
+ *      服务器分布式配置，告诉 Apache 重定向到 index.html 入口文件。
  *      <IfModule mod_rewrite.c>
             Options + FollowSymLinks
             RewriteEngine on
-            # Send request via index.php
+            # Send request via index.html
             RewriteCond %{REQUEST_FILENAME} !-f
             RewriteCond %{REQUEST_FILENAME} !-d
-            RewriteRule ^(.*)$ index.php/$1 [L]
+            RewriteRule ^(.*)$ index.html/$1 [L]
         </IfModule>
  *
  */

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    {foreach $userinfo as $key => $value}
+    <div>
+        <span>{$value@iteration}</span>
+        <span>{$value["name"]}</span>
+        <span>{$value["age"]}</span>
+        <span>{$value["address"]}</span>
+        <span><a href="{$smarty.const.__CONTROLLER__}/update/name/{$value['name']}">修改</a></span>
+    </div>
+    {/foreach}
+    <div>
+        {$pageList}
+    </div>
+</body>
+</html>

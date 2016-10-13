@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div{
+            margin-top:10px
+        }
+        div span{
+            display: inline-block;
+            width:100px;
+        }
+
+        div:nth-child(3) span{
+            height:48px;
+            vertical-align: middle;
+        }
+
+        div:nth-child(3) input{
+            vertical-align: baseline;
+        }
+
+        div:nth-child(3) div{
+            border:1px solid #999999;
+            width:150px;
+            display: inline-block;
+        }
+
+        div:nth-child(3) div img {
+            cursor: pointer;
+        }
+
+    </style>
+</head>
+<body>
+    <form action="{$smarty.const.__ACTION__}" method="POST">
+        <div>
+            <span>用户名</span><input type="text" name="username" value="">
+        </div>
+        <div>
+            <span>密码</span><input type="password" name="password" value="">
+        </div>
+        <div>
+            <span>输入验证码</span>
+            <input type="text" name="capcha">
+            <div>
+                <img id = "verify_img" src="{$smarty.const.__CONTROLLER__}/verifyImg"  onclick="this.src='{$smarty.const.__CONTROLLER__}/verifyImg/'+Math.random()" alt="请输入验证码">
+            </div>
+        </div>
+        <div>
+            <span></span><input type="submit" value="登录">
+        </div>
+    </form>
+    {literal}
+    <!--<script>-->
+        <!--const verifyImg = document.getElementById("verify_img");-->
+        <!--verifyImg.addEventListener("click",function(){-->
+            <!--this.src += "/";-->
+            <!--this.src += Math.random();-->
+        <!--},false)-->
+    <!--</script>-->
+    {/literal}
+</body>
+</html>
